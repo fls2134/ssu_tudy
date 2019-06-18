@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <tabs>
+        <tab
+            id="@+id/bottom_calendar"
+            icon="@drawable/ic_calendar"
+            title="@string/calendar" />
+        <tab
+            id="@+id/bottom_community"
+            icon="@drawable/ic_community"
+            title="@string/community" />
+    </tabs>
+</PreferenceScreen>
